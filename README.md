@@ -12,7 +12,6 @@ ___
 ___
 # Возможность запуска Bash-кода: 
 ### Приложение предоставляет функциональность для запуска выполнения кода, что позволяет разработчикам проверять работу своих Bash-скриптов без необходимости переключаться на терминал.
-(пока не доработано)
 ___
 # Кому полезен:
 
@@ -30,11 +29,14 @@ ___
 | archive_commands| <span style="color:#7945D6;font-weight:bold;">Фиолетовый</span>  |
 | user_commands   | <span style="color:#33CCCC;font-weight:bold;">Голубой</span>  |
 | system_commands | <span style="color:#FFF673;font-weight:bold;">Желтый</span>   |
+____
+# Информация
 
-
-
-
-
+| Зависимости  | Версия |
+|--------------|--------|
+| Python       | ![Python Version](https://img.shields.io/badge/Python-3.7.3-blue) |
+| PyQt5        | ![PyQt5 Version](https://img.shields.io/badge/PyQt5-5.15.2-blue) |
+| Release      |    [тык]()    |
 
 
 
