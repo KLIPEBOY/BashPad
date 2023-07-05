@@ -20,7 +20,7 @@ ___
 ___
 # Цвета зависимостей синтаксиса:
 
-| Формат команд| Цвет|
+| [Формат команд](https://github.com/KLIPEBOY/BashPad/blob/main/format_comands.md)| Цвет|
 |----------|----------|
 | task_commands   | <span style="color:#37DD6F;font-weight:bold;">Зеленый</span>|
 | file_commands   | <span style="color:#FF0000;font-weight:bold;">Красный</span> |
