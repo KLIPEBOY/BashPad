@@ -35,7 +35,7 @@ ____
 | Python       | ![Python Version](https://img.shields.io/badge/Python-3.7.3-blue) |
 | PyQt5        | ![PyQt5 Version](https://img.shields.io/badge/PyQt5-5.15.2-blue) |
 | Release      |    [тык](https://github.com/KLIPEBOY/BashPad/releases)    |
-
+[Donate](https://donate.qiwi.com/payin/KLIPEBOY)
 
 
 ____
