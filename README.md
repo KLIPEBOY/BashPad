@@ -35,7 +35,8 @@ ____
 | Python       | ![Python Version](https://img.shields.io/badge/Python-3.7.3-blue) |
 | PyQt5        | ![PyQt5 Version](https://img.shields.io/badge/PyQt5-5.15.2-blue) |
 | Release      |    [тык](https://github.com/KLIPEBOY/BashPad/releases)    |
-
+____
+# Вид BashPad
 ![Example Image](https://i.imgur.com/bnQTQxU.png)
 
 ____
