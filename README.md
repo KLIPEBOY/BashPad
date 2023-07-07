@@ -38,7 +38,9 @@ ____
 P.S
 ```bash
 cd download
-chmod 777 BashPad
+```
+```bash
+chmod 777 Bashpad
 ```
 
 
